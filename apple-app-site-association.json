@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+        {
+          "appID": "45J72966L7.com.example.landing1",
+          "paths": ["*"]
+        }
+      ]
+    }
+  }
